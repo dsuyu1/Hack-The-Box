@@ -4,7 +4,7 @@
 <br><br>
 
 
-Fawn is the second lab in the Hack The Box Penetration Testing series. In this lab, we pwn Fawn using port 21, the FTP protocol. The File Transfer Protocol (FTP) is a native protocol to
+Fawn is the second lab in the Hack The Box "Starting Point" penetration testing series. In this lab, we pwn Fawn using port 21, the FTP protocol. The File Transfer Protocol (FTP) is a native protocol to
 all host operating systems and used for a long time for simple file transfer tasks. FTP can be easily
 misconfigured. FTP can be used to transfer log files from one network device to another or a log collection server.
 FTP is built on a client-server model architecture using separate control and data connections between the client
