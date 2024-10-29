@@ -1,7 +1,6 @@
 ## Introduction
-<br>
 <img src="https://i.imgur.com/Z2OyMPq.png">
-<br><br>
+<br>
 
 Meow is the first box I pwned in Hack The Box. It is the easiest lab in the Hack The Box "Starting Point" penetration testing lab learning path. 
 ## Steps
