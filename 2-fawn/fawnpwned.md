@@ -1,7 +1,6 @@
 ## Introduction
-<br>
 <img src="https://i.imgur.com/yiCeAf4.png">
-<br><br>
+<br>
 
 
 Fawn is the second lab in the Hack The Box "Starting Point" penetration testing series. In this lab, we pwn Fawn using port 21, the FTP protocol. The File Transfer Protocol (FTP) is a native protocol to
