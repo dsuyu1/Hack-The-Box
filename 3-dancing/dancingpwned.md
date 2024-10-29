@@ -1,5 +1,4 @@
 ## Introduction
-<br>
 <img src="https://i.imgur.com/WaZOKL5.png">
 <br><br>
 
