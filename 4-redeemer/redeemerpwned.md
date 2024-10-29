@@ -1,4 +1,6 @@
 ## Introduction
+<img src="https://i.imgur.com/eUAp5Rf.png">
+<br><br>
 
 In Redeemer we look into a different service, **Redis**. Redis is an "in-memory" database. In-memory databases are the ones that rely essentially on the primary memory for data storage. Rather than storing databases on hard drives and SSDs, in-memory databases are stored on RAM. As primary memory is faster than secondary memory, in-memory databases are much faster when it comes to retrieving data.
 
