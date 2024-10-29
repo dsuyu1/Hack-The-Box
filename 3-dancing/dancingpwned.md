@@ -1,6 +1,6 @@
 ## Introduction
 <img src="https://i.imgur.com/WaZOKL5.png">
-<br><br>
+<br>
 
 Server Message Block (SMB) is a communication protocol that provides shared access to files, printers, and serial ports between endpoints on a network. SMB services are mostly seen on Windows machines. 
 
