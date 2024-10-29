@@ -1,0 +1,2 @@
+## Introduction
+Starting point is a learning path within Hack The Box that teaches the basics of penetration testing. This folder holds the documentation on how I pwned each box and worked through each lab.
