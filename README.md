@@ -5,4 +5,4 @@
 </center>
 
 ## hackthebox
-Hosts all my Hack The Box labs
+Hosts all my Hack The Box labs.
