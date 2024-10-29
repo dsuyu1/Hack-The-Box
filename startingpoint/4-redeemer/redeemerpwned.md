@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/eUAp5Rf.png">
 <br>
 
+##### Skills: Redis, Vulnerability Assessment, Databases, Reconnaissance, Anonymous/Guest Access
+
 In Redeemer we look into a different service, **Redis**. Redis is an "in-memory" database. In-memory databases are the ones that rely essentially on the primary memory for data storage. Rather than storing databases on hard drives and SSDs, in-memory databases are stored on RAM. As primary memory is faster than secondary memory, in-memory databases are much faster when it comes to retrieving data.
 
 In-memory databases like Redis are typically used to cache data of frequented data for quick retrieval. For example, if there are links or prices on the front page of a website that are frequently visited, Redis caches them. Rather than pulling the data primarily from the traditional database (like MySQL or MongoDB), instead, the data is pulled from Redis. Redis handles similar requests over a period of time for much faster retrieval.
