@@ -22,7 +22,7 @@ After installing the Redis CLI with `sudo apt install redis-tools`, we can acces
 
 <br>
 <img src="https://i.imgur.com/yTLDfaB.png">
-<i>Ref 2: Under # Keyspace, we can see databasae 0 with 4 keys</i>
+<i>Ref 2: Under # Keyspace, we can see database 0 with 4 keys</i>
 <br><br>
 
 
